@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 public class OpenALPR_Test {
     private static Alpr alpr;
     public static void main(String[] args) {
-        alpr = new Alpr("eu", "C:/Users/cwjvr/Documents/openalpr_64/runtime_data/config/openalpr.conf", "C:/Users/cwjvr/Documents/openalpr_64/runtime_data");
+        alpr = new Alpr("eu", System.getProperty("user.dir").replace('\\', '/') + "/src/main/java/runtime_data/config/openalpr.conf", System.getProperty("user.dir").replace('\\', '/') + "/src/main/java/runtime_data");
 
 
 
