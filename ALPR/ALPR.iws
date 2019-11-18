@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/ALPR.iws" beforeDir="false" afterPath="$PROJECT_DIR$/ALPR.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/main/OpenALPR_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/OpenALPR_Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/OpenALPR_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OpenALPR_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtime_data/config/eu.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runtime_data/config/eu.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtime_data/config/openalpr.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runtime_data/config/openalpr.conf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

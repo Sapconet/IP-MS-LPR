@@ -18,8 +18,6 @@ public class OpenALPR_Test {
     public static void main(String[] args) {
         alpr = new Alpr("eu", System.getProperty("user.dir").replace('\\', '/') + "/src/main/java/runtime_data/config/openalpr.conf", System.getProperty("user.dir").replace('\\', '/') + "/src/main/java/runtime_data");
 
-
-
         // Set top N candidates returned to 20
         alpr.setTopN(5);
 
@@ -27,7 +25,7 @@ public class OpenALPR_Test {
         alpr.setDefaultRegion("de");
         AlprResults results = null;
         try {
-            Path path = Paths.get("C:/Users/cwjvr/Documents/openalpr_64/samples/kr-1.jpg");
+            Path path = Paths.get("C:/Users/cwjvr/Documents/openalpr_64/samples/za-2.jpg");
             byte[] imagedata = Files.readAllBytes(path);
             results = alpr.recognize(imagedata);
         } catch (AlprException e) {
