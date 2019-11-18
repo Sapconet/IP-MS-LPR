@@ -59,8 +59,8 @@ public class OpenALPR_Test {
     private static List<String> readFiles(String dir) {
         List<String> result = null;
         try (Stream<Path> walk = Files.walk(Paths.get(dir))) {
-            result = walk.filter(Files::isRegularFile)
-                    .map(x -> x.toString()).collect(Collectors.toList());
+            result = walk.map(x -> x.toString())
+                    .filter(f -> f.endsWith(".jpg")).collect(Collectors.toList());
             
             return result;
         } catch (IOException ex) {
