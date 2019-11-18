@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6083998-f2ff-4619-9616-bcd5d33ba5ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/openalpr_64.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/OpenALPR_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/Alpr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/AlprCoordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/AlprException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/AlprPlate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/AlprPlateResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/AlprRegionOfInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/AlprResults.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/json/JSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/json/JSONArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/json/JSONException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/json/JSONObject$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/json/JSONObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/json/JSONStringer$Scope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/json/JSONStringer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/java/main/com/openalpr/jni/json/JSONTokener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hs_err_pid11748.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hs_err_pid1924.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../liblept170.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../openalpr-net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../openalpr.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../openalpr.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../openalprjni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../openalprpy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opencv_ffmpeg300_64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opencv_world300.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/OpenALPR_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/Alpr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/Alpr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprCoordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprCoordinate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprPlate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprPlate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprPlateResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprPlateResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprRegionOfInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprRegionOfInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprResults.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/AlprResults.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/CDL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/Cookie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/CookieList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/HTTP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/HTTPTokener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONObject$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONObject$Null.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONStringer$Scope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONStringer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONStringer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONTokener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONTokener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/JSONWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/Property.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/XML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/json/XMLTokener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/liblept170.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/openalpr-net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/openalpr.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/openalprjni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/openalprpy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/opencv_ffmpeg300_64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/openalpr/jni/opencv_world300.dll" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TmA0VbVlS84Iy4xiBTkSlprM5v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="OpenALPR_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OpenALPR_Test" />
+      <module name="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OpenALPR_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6083998-f2ff-4619-9616-bcd5d33ba5ea" name="Default Changelist" comment="" />
+      <created>1574054673940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574054673940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
