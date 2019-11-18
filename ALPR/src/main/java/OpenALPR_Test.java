@@ -8,6 +8,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 
 public class OpenALPR_Test {
@@ -53,7 +56,17 @@ public class OpenALPR_Test {
         alpr.unload();
     }
 
-    private static void readFiles(String dir) {
-
+    private static List<String> readFiles(String dir) {
+        List<String> result = null;
+        try (Stream<Path> walk = Files.walk(Paths.get(dir))) {
+            result = walk.filter(Files::isRegularFile)
+                    .map(x -> x.toString()).collect(Collectors.toList());
+            
+            return result;
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
+        
+        return result;
     }
 }
